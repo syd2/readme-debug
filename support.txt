@@ -1,0 +1,31 @@
+L1 :  Do you sell this book? I was looking through the catalog but couldn't find a way to buy it. Is it possible to purchase directly from your site?
+Réponse : Hi Sophie, We're actually a book showcase website, not an online store. The main goal is to help readers discover about various books categoues, but we don't sell them directly. Let me know if you need with anything else.  Cheers,
+
+L1: How can I search for books by a specific author? It's not very clear where to do that, and I'm struggling to find the books I want.
+Réponse: Hello Claire, We've just added a search bar at the top of the page - you can now search directly by author name. Hope this helps! Cheers,
+L1 : Salut, j'ai vu une catégorie qui s'appelle 'Oulipo'. À quoi ça correspond exactement ?
+Réponse : ?
+
+ L2 : Bonjour, la catégorie 'Mythe' semble avoir disparu du site. Est-ce que c'est un bug ou elle a été supprimée ?
+Réponse : Bonjour Claire, En effet, la catégorie 'Mythe' a été supprimée lors d'une réorganisation du site. Vous pouvez urtiliser la barre de recherche pour retrouver vos livres préférés ! À bientôt,
+
+L2: Hey, just wanted to let you know that I found a 'Test' category.
+Réponse : Hi Michael, The 'Test' category was used for development and shouldn't be visible. I'll have it removed right away. Cheers!
+L2 : Je crois qu'il y a des doublons dans la liste des livres. J'ai vu le même livre apparaître plusieurs fois.
+Réponse : Bonjour, nous allons vérifier ça. Pourriez-vous me donner le titre du livre que vous voyez en double ? Ça nous aidera à identifier si c'est un vrai doublon. À bientôt !
+
+
+L3 : What is this ? There is a black dot showing near every book
+Réponse : Hi Maxime, The black dots indicate how many categories each book belongs to. This helps you quickly identify multi-genre books! Best,
+
+L3 : c'est  lent!! le site est lent pour moi
+réponse Support: Bonjour, Merci pour votre retour. Nous travaillons actuellement à améliorer les performances du site. Une mise à jour sera déployée très bientôt. Cordialement,
+Remarque : j'ai remarqué que la performances cls du site est mauvaise dans la tab performances du chrome devtools. 
+
+L3 : Images de couverture manquantes dans le formulaire Book
+Réponse:  Bonjour eray, J'ai ajouté un champs images au formulaire d'ajout de livre pour que l'utilisateurs puisse choisir l'image du livre et ensuite je génere un nom de fichier unique puis j'ajoute le fichier dans le dossier public/images/books et  je compléte les données de création de livres avec le chemins.
+
+L3: Some books don't seem to filter into the right category.
+
+Réponse : Hi charlotte ! I'd like to explain that many books actually belong to multiple categories. When you're filtering by category, you'll see all books that belong to your selected category, even if they also belong to other categories. If you see any specific books that you believe are incorrectly categorized, please let me know the titles and I'll be happy to check that out .
+Best, 
